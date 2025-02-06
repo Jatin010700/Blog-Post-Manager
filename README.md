@@ -15,7 +15,12 @@ I have tried my best to align with the description.
 ```
 - **FRONT:** \blog-post-project\npm run dev
 - **BACK:** \blog-post-server\py server.py
-
+#### For back to these step before running (**py server.py**):
+- install python
+- py -m venv .venv
+- .venv/Scripts/activate (for windows)
+- pip install -r requirements.txt (to install dependencies)
+- then run server
 #
 ### **FEATURES**
 
